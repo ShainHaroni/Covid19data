@@ -7,7 +7,7 @@
 
 #### How to run:
 * Download the code.
-* open terminal and write: python3 manage.py runserver.
+* Open terminal and write: python3 manage.py runserver.
 
 
 ##### Screenshots:
