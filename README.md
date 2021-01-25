@@ -7,7 +7,7 @@
 
 #### How to run:
 * Download the code.
-* Open terminal and write: python3 manage.py runserver.
+* Open terminal and write: python3 manage.py runserver - copy the localhost to your browser.
 
 
 ##### Screenshots:
